@@ -27,6 +27,14 @@ The application offers a cinematic, fluid user experience optimized for client a
 
 ---
 
+## 🌐 Live Demo
+
+Visit the live portfolio:
+
+[Peejay Store Website](https://peejay-store.netlify.app/)
+
+---
+
 ## 🔌 Dual-Channel Form Architecture
 
 The form submission workflow uses a distinct structural pattern designed to guarantee lead capturing even if external email engines experience downtime:
